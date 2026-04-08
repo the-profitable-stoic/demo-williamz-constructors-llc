@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Williamz Constructors LLC",
+    "phone": "+16152199786",
+    "category": "general contractor",
+    "city": "Nashville",
+    "state": "TN"
+  },
+  "design": {
+    "preset": {
+      "id": "general-contractor-mountain-bold",
+      "categoryGroup": "general-contractor",
+      "name": "Mountain Bold",
+      "recipeFile": "general-contractor/mountain-bold.astro",
+      "colors": {
+        "primary": "#0F1D30",
+        "primaryDark": "#0b1422",
+        "primaryLight": "#c3c7cb",
+        "secondary": "#1E3A5F",
+        "accent": "#3B82F6",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#0F1D30",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "general-contractor/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Nashville's Trusted General Contractor",
+      "heroSubline": "Building and renovating homes across Middle Tennessee with integrity and expertise. Let us bring your vision to life.",
+      "aboutTitle": "Building Nashville, One Project at a Time",
+      "aboutText": [
+        "Williamz Constructors LLC began over a decade ago with a simple goal: to provide honest, reliable general contracting services to our neighbors in Nashville. We saw a need for a contractor that prioritized clear communication, quality workmanship, and a commitment to doing things the right way.",
+        "Our approach is simple: we listen to your needs, develop a detailed plan, and execute it with precision. We value transparency and open communication throughout the entire process, ensuring you're always informed and in control. We use only the highest quality materials and employ skilled craftsmen who take pride in their work.",
+        "We're proud to be a part of the Nashville community and are committed to giving back. We regularly support local charities and organizations, and we strive to minimize our environmental impact through sustainable building practices."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Nashville's unique housing styles and building codes."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear and detailed estimates with no hidden fees or surprises."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Experienced and skilled tradespeople dedicated to delivering exceptional results."
+        },
+        {
+          "title": "Project Management",
+          "description": "Dedicated project managers to ensure smooth and efficient project completion."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Contact Williamz Constructors today for a free consultation and let us help you create the home of your dreams."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your Nashville home.",
+        "description": "Your kitchen is more than just a place to cook; it's a gathering place, a space for creativity, and the heart of your home. Williamz Constructors specializes in creating stunning and functional kitchens that reflect your personal style and meet your family's needs. Whether you're dreaming of a complete overhaul, a simple refresh, or expanding your existing space, we're here to guide you through every step of the process.\n\nFrom initial design concepts and material selection to demolition, installation, and finishing touches, we handle every aspect of your kitchen remodel with meticulous attention to detail. We work with a team of experienced designers, plumbers, electricians, and carpenters to ensure a seamless and stress-free experience. We understand the unique challenges of remodeling kitchens in Nashville's older homes, including dealing with plumbing and electrical systems, and navigating the city's permitting process.\n\nWe source high-quality cabinets, countertops, appliances, and fixtures from trusted suppliers, ensuring lasting beauty and functionality. We also offer custom cabinetry options to create a truly unique and personalized space. Let us help you create a kitchen that you'll love for years to come, increasing your home's value and enhancing your daily life.",
+        "process": [
+          "Step 1: Initial Consultation & Design - We'll discuss your vision, budget, and needs to create a custom design plan.",
+          "Step 2: Material Selection - Choose from a wide range of cabinets, countertops, appliances, and fixtures.",
+          "Step 3: Demolition & Construction - Our skilled team will carefully remove existing structures and begin the remodel.",
+          "Step 4: Installation & Finishing - We'll install all new components and complete the project with meticulous attention to detail."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Personalized Space"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "The duration of a kitchen remodel depends on the scope of the project, but typically ranges from 6-12 weeks. We'll provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "While it's not always necessary to move out, it can be more comfortable, especially during demolition and construction. We'll work with you to minimize disruption to your daily life."
+          },
+          {
+            "question": "What is the average cost of a kitchen remodel in Nashville?",
+            "answer": "The cost varies depending on the size and complexity of the project, but a typical kitchen remodel in Nashville can range from $30,000 to $80,000+."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a spa-like retreat in your Nashville home with a custom bathroom remodel.",
+        "description": "Transform your outdated or dysfunctional bathroom into a luxurious and relaxing oasis with Williamz Constructors' bathroom remodeling services. Whether you're looking to update fixtures, expand the space, or create a completely new design, we have the expertise and resources to bring your vision to life.\n\nWe understand that bathroom remodels can be disruptive, so we prioritize clear communication and efficient project management to minimize inconvenience. Our team of skilled plumbers, electricians, and tile installers ensures that every aspect of your bathroom remodel is completed to the highest standards. We're experienced in handling the unique challenges of Nashville's older homes, including dealing with outdated plumbing and electrical systems, and ensuring proper ventilation to combat humidity.\n\nFrom selecting elegant tile and fixtures to installing custom vanities and shower enclosures, we'll guide you through every step of the process. We source high-quality materials from trusted suppliers, ensuring lasting beauty and functionality. Whether you desire a modern, minimalist design or a classic, traditional style, we'll create a bathroom that reflects your personal taste and enhances your daily routine.",
+        "process": [
+          "Step 1: Consultation & Design - We'll discuss your needs and design preferences to create a customized plan.",
+          "Step 2: Fixture & Material Selection - Choose from a wide range of tiles, vanities, faucets, and showerheads.",
+          "Step 3: Demolition & Plumbing/Electrical - We handle demolition and ensure all plumbing and electrical work is up to code.",
+          "Step 4: Installation & Finishing - Our team expertly installs all new components and adds the finishing touches."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Relaxation",
+          "Modernized Aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "What permits are required for a bathroom remodel in Nashville?",
+            "answer": "Depending on the scope of the project, you may need permits for plumbing, electrical, and structural work. We'll handle the permit application process for you."
+          },
+          {
+            "question": "How can I maximize space in a small bathroom?",
+            "answer": "We can help you optimize space with clever storage solutions, wall-mounted fixtures, and strategic mirror placement."
+          },
+          {
+            "question": "What are some popular bathroom design trends in Nashville?",
+            "answer": "Popular trends include walk-in showers, freestanding tubs, and natural stone finishes. We can help you incorporate these trends into your design."
+          }
+        ]
+      },
+      {
+        "slug": "home-additions",
+        "name": "Home Additions",
+        "shortDescription": "Expand your living space with a seamless home addition in Nashville.",
+        "description": "Need more space for your growing family or lifestyle? Williamz Constructors specializes in designing and building home additions that seamlessly integrate with your existing Nashville home. Whether you're adding a new bedroom, bathroom, family room, or expanding your kitchen, we'll create a space that meets your needs and enhances your property's value.\n\nWe understand that home additions can be a significant undertaking, so we prioritize clear communication, careful planning, and efficient project management. Our team of experienced architects, engineers, and builders will guide you through every step of the process, from initial design concepts to final inspections. We're experienced in navigating Nashville's zoning regulations and permitting process, ensuring a smooth and hassle-free experience.\n\nWe take pride in our ability to create additions that blend seamlessly with your existing home's architecture and style. We use high-quality materials and construction techniques to ensure that your addition is not only beautiful but also durable and energy-efficient. We also understand the importance of minimizing disruption to your daily life during the construction process. Let us help you create the extra space you need to live comfortably and enjoy your home to the fullest.",
+        "process": [
+          "Step 1: Consultation & Design - We'll discuss your needs, budget, and design preferences to create a detailed plan.",
+          "Step 2: Permitting & Approvals - We'll handle all necessary permits and approvals from the city of Nashville.",
+          "Step 3: Foundation & Framing - We'll lay the foundation and build the structural framework of your addition.",
+          "Step 4: Interior & Exterior Finishing - We'll complete the interior and exterior finishes, including flooring, painting, and siding."
+        ],
+        "benefits": [
+          "Increased Living Space",
+          "Enhanced Property Value",
+          "Improved Functionality",
+          "Customized Design"
+        ],
+        "faq": [
+          {
+            "question": "How long does a home addition typically take to build?",
+            "answer": "The timeline varies depending on the size and complexity of the project, but a typical home addition can take anywhere from 3 to 6 months."
+          },
+          {
+            "question": "How much does a home addition cost in Nashville?",
+            "answer": "The cost depends on the size, materials, and complexity of the project. We'll provide a detailed estimate during the initial consultation."
+          },
+          {
+            "question": "Will a home addition increase my property taxes?",
+            "answer": "Yes, a home addition will likely increase your property taxes. We recommend contacting the Davidson County Assessor of Property for more information."
+          }
+        ]
+      },
+      {
+        "slug": "deck-and-patio-construction",
+        "name": "Deck and Patio Construction",
+        "shortDescription": "Enhance your outdoor living space with a custom deck or patio in Nashville.",
+        "description": "Extend your living space outdoors with a beautiful and functional deck or patio from Williamz Constructors. We specialize in designing and building custom decks and patios that enhance your Nashville home's curb appeal and provide a perfect space for relaxation and entertaining.\n\nWhether you envision a spacious deck for grilling and dining, a cozy patio for relaxing with a book, or an elaborate outdoor living area with a fireplace and kitchen, we can bring your vision to life. We work with a variety of materials, including wood, composite decking, pavers, and natural stone, to create a design that complements your home's architecture and your personal style.\n\nWe understand the importance of building decks and patios that are not only beautiful but also durable and safe. We use high-quality materials and construction techniques to ensure that your deck or patio can withstand Nashville's weather conditions, including hot summers, occasional ice storms, and severe spring thunderstorms. We also ensure that all of our decks and patios are built to code and meet all safety requirements.",
+        "process": [
+          "Step 1: Design Consultation - We'll discuss your needs and design preferences to create a custom plan.",
+          "Step 2: Material Selection - Choose from a variety of wood, composite, pavers, and stone options.",
+          "Step 3: Construction & Installation - Our skilled team will build your deck or patio with precision and care.",
+          "Step 4: Finishing Touches - We'll add the final touches, such as railings, lighting, and landscaping."
+        ],
+        "benefits": [
+          "Enhanced Outdoor Living Space",
+          "Increased Home Value",
+          "Improved Curb Appeal",
+          "Perfect for Entertaining"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of composite decking?",
+            "answer": "Composite decking is low-maintenance, durable, and resistant to rot, insects, and fading. It's a great option for Nashville's climate."
+          },
+          {
+            "question": "Do I need a permit to build a deck or patio?",
+            "answer": "Depending on the size and scope of the project, you may need a permit. We'll handle the permit application process for you."
+          },
+          {
+            "question": "How can I protect my deck from the elements?",
+            "answer": "We recommend applying a sealant or stain to your deck regularly to protect it from moisture and UV damage."
+          }
+        ]
+      },
+      {
+        "slug": "siding-installation-and-repair",
+        "name": "Siding Installation and Repair",
+        "shortDescription": "Protect and beautify your Nashville home with expert siding services.",
+        "description": "Your home's siding is its first line of defense against the elements and plays a crucial role in its curb appeal. Williamz Constructors offers expert siding installation and repair services to protect and beautify your Nashville home. Whether you're looking to replace old or damaged siding, upgrade to a more durable material, or simply enhance your home's appearance, we have the expertise and resources to get the job done right.\n\nWe work with a variety of siding materials, including vinyl, wood, fiber cement, and metal, to match your home's architecture and your personal style. We understand the unique challenges of siding installation and repair in Nashville, including dealing with the area's humid climate, occasional ice storms, and potential for termite damage. We use high-quality materials and installation techniques to ensure that your siding is not only beautiful but also durable and long-lasting.\n\nWe also offer siding repair services to address issues such as cracks, holes, rot, and water damage. We'll assess the damage, provide a detailed estimate, and perform the necessary repairs to restore your siding to its original condition. Protecting your home from the elements is our priority. We can help you choose the right siding for your home and ensure it's installed correctly.",
+        "process": [
+          "Step 1: Inspection & Assessment - We'll inspect your siding and assess any damage or issues.",
+          "Step 2: Material Selection - Choose from a variety of siding materials to match your home's style.",
+          "Step 3: Installation or Repair - Our skilled team will install new siding or repair existing siding with precision.",
+          "Step 4: Finishing Touches - We'll add the final touches, such as caulking and painting."
+        ],
+        "benefits": [
+          "Improved Curb Appeal",
+          "Increased Home Value",
+          "Protection from the Elements",
+          "Reduced Energy Costs"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of fiber cement siding?",
+            "answer": "Fiber cement siding is durable, fire-resistant, and resistant to rot and insects. It's a great option for Nashville's climate."
+          },
+          {
+            "question": "How do I know if my siding needs to be replaced?",
+            "answer": "Signs that your siding needs to be replaced include cracks, holes, rot, water damage, and fading."
+          },
+          {
+            "question": "How can I prevent termite damage to my siding?",
+            "answer": "We recommend having your home inspected for termites regularly and taking steps to prevent termite infestations."
+          }
+        ]
+      },
+      {
+        "slug": "roofing-services",
+        "name": "Roofing Services",
+        "shortDescription": "Protect your Nashville home with reliable roofing installation and repair.",
+        "description": "Your roof is your home's primary defense against the elements, and a damaged or aging roof can lead to serious problems. Williamz Constructors provides comprehensive roofing services to protect your Nashville home, from new roof installations to repairs and maintenance. We understand the importance of a sound roof in Nashville's climate, with its hot summers, occasional ice, and severe storms.\n\nWe work with a variety of roofing materials, including asphalt shingles, metal roofing, and tile, to match your home's architecture and your budget. Our experienced team will assess your roof's condition, provide a detailed estimate, and perform the necessary repairs or replacement with precision and care. We're familiar with the specific challenges that Nashville homes face, such as damage from fallen trees during storms and the effects of prolonged sun exposure on roofing materials.\n\nWhether you need a minor repair to fix a leak or a complete roof replacement, we're committed to providing you with reliable and affordable roofing services. We use high-quality materials and follow industry best practices to ensure that your roof is durable, long-lasting, and able to withstand the elements. We also offer roof maintenance services to help extend the life of your roof and prevent costly repairs.",
+        "process": [
+          "Step 1: Roof Inspection - We'll thoroughly inspect your roof for damage and assess its condition.",
+          "Step 2: Material Selection - Choose from a variety of roofing materials to match your home's style and budget.",
+          "Step 3: Installation or Repair - Our skilled team will install a new roof or repair your existing roof with care.",
+          "Step 4: Cleanup & Inspection - We'll clean up the job site and conduct a final inspection to ensure quality."
+        ],
+        "benefits": [
+          "Protection from the Elements",
+          "Increased Home Value",
+          "Improved Energy Efficiency",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, especially after severe weather events."
+          },
+          {
+            "question": "What are the signs that my roof needs to be replaced?",
+            "answer": "Signs that your roof needs to be replaced include leaks, missing or damaged shingles, and excessive granule loss."
+          },
+          {
+            "question": "How long does a new roof typically last?",
+            "answer": "The lifespan of a roof depends on the material, but a well-maintained asphalt shingle roof can last 20-30 years."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Franklin",
+        "slug": "franklin-tn",
+        "state": "TN",
+        "content": "Williamz Constructors LLC is proud to offer comprehensive construction services to homeowners and businesses in Franklin, Tennessee. Known for its charming historic downtown area and beautiful antebellum homes, Franklin presents unique construction and renovation opportunities. We understand the importance of preserving the historical character of these properties while incorporating modern amenities and energy-efficient solutions.\n\nOur team has extensive experience working on projects in Franklin, from restoring historic homes to building new custom residences. We are committed to providing high-quality craftsmanship and exceptional customer service, ensuring that your project is completed on time and within budget. We also understand the impact of hot, humid summers on local homes and can advise on weather protection.\n\nWhether you're looking to renovate your kitchen, add an addition to your home, or build a new commercial space, Williamz Constructors LLC is the perfect partner for your project in Franklin.",
+        "localContext": "Franklin, TN, boasts a rich history and a vibrant community, known for its historic downtown and well-preserved antebellum architecture. The climate is characterized by hot, humid summers and mild winters.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Thompson's Station",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Murfreesboro",
+        "slug": "murfreesboro-tn",
+        "state": "TN",
+        "content": "Williamz Constructors LLC extends its expertise to Murfreesboro, Tennessee, a rapidly growing city with a focus on affordable family developments and community living. We cater to the diverse construction needs of Murfreesboro residents and businesses, offering services ranging from new home construction to renovations and commercial projects.\n\nWe understand the importance of creating functional and aesthetically pleasing spaces that meet the needs of modern families. Our team is skilled in working with a variety of architectural styles and budgets, ensuring that your project is tailored to your specific requirements. We also understand the impact of hot, humid summers on local homes and can advise on weather protection.\n\nWilliamz Constructors LLC is committed to providing exceptional value and quality to our clients in Murfreesboro. We strive to build lasting relationships based on trust, integrity, and superior craftsmanship.",
+        "localContext": "Murfreesboro, TN, is a growing city known for its affordable family-friendly developments and strong sense of community. The region experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Smyrna",
+          "La Vergne",
+          "Rockvale"
+        ]
+      },
+      {
+        "city": "Brentwood",
+        "slug": "brentwood-tn",
+        "state": "TN",
+        "content": "Williamz Constructors LLC proudly serves the Brentwood, Tennessee area, specializing in luxury estates and custom homes nestled on wooded lots. We understand the unique challenges and opportunities presented by these high-end properties, and we are committed to delivering exceptional results that exceed our clients' expectations.\n\nOur team has extensive experience working on complex construction projects, from designing and building custom homes to renovating and expanding existing estates. We are skilled in working with a variety of architectural styles and materials, ensuring that your project is tailored to your specific vision. We also understand the impact of hot, humid summers on local homes and can advise on weather protection.\n\nWilliamz Constructors LLC is dedicated to providing unparalleled service and craftsmanship to our clients in Brentwood. We take pride in our attention to detail and our commitment to creating spaces that are both beautiful and functional.",
+        "localContext": "Brentwood, TN, is characterized by its luxury estates, expansive wooded lots, and a commitment to upscale living. The climate is marked by hot, humid summers.",
+        "nearbyAreas": [
+          "Franklin",
+          "Nashville",
+          "Nolensville"
+        ]
+      },
+      {
+        "city": "Hendersonville",
+        "slug": "hendersonville-tn",
+        "state": "TN",
+        "content": "Williamz Constructors LLC provides expert construction services to the Hendersonville, Tennessee area, specializing in lakefront homes and properties surrounding Old Hickory Lake. We understand the unique considerations involved in building and renovating homes in this beautiful lakeside community.\n\nOur team is experienced in working with waterfront properties, ensuring that your project is designed and built to withstand the elements and maximize your enjoyment of the lake. We offer a wide range of services, from new home construction to renovations, additions, and outdoor living spaces. We also understand the impact of hot, humid summers on local homes and can advise on weather protection.\n\nWilliamz Constructors LLC is committed to providing exceptional quality and customer service to our clients in Hendersonville. We strive to create lasting relationships based on trust, integrity, and a shared passion for creating beautiful and functional spaces.",
+        "localContext": "Hendersonville, TN, is known for its stunning lakefront properties along Old Hickory Lake and a relaxed, lakeside lifestyle. The area experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Gallatin",
+          "Goodlettsville",
+          "Madison"
+        ]
+      },
+      {
+        "city": "Nashville",
+        "slug": "nashville-tn",
+        "state": "TN",
+        "content": "Williamz Constructors LLC is your premier construction partner in the vibrant city of Nashville, Tennessee. From the bustling downtown core to the historic neighborhoods, we offer a comprehensive range of construction services tailored to meet the diverse needs of our clients. Whether you're looking to renovate a historic home, build a new commercial space, or add an addition to your existing property, our team has the expertise and experience to bring your vision to life.\n\nWe understand the unique challenges and opportunities presented by Nashville's dynamic real estate market. Our team is skilled in navigating local building codes and regulations, ensuring that your project is completed on time and within budget. We are also committed to using sustainable building practices and materials whenever possible.\n\nWilliamz Constructors LLC is dedicated to providing exceptional customer service and superior craftsmanship to our clients in Nashville. We strive to build lasting relationships based on trust, integrity, and a shared passion for creating beautiful and functional spaces.",
+        "localContext": "Nashville, TN, is a vibrant and rapidly growing city known for its music scene, diverse culture, and thriving economy. The city experiences hot, humid summers and mild winters.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Franklin",
+          "Goodlettsville"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-tn",
+        "state": "TN",
+        "content": "Williamz Constructors LLC is pleased to offer construction services to Smyrna, Tennessee. Smyrna is a growing community with a mix of residential and commercial properties, providing a variety of construction opportunities. We are well-equipped to handle a range of projects, from home renovations to new commercial builds.\n\nWe understand the importance of efficient and cost-effective construction, especially for families and businesses in Smyrna. Our team works diligently to ensure that your project is completed on time and within budget, without compromising on quality. We also understand the impact of hot, humid summers on local homes and can advise on weather protection.\n\nChoose Williamz Constructors LLC for your construction needs in Smyrna. We are committed to delivering excellent results and building lasting relationships with our clients.",
+        "localContext": "Smyrna, TN, is a growing town known for its industrial presence and family-friendly environment. The climate features hot, humid summers.",
+        "nearbyAreas": [
+          "Murfreesboro",
+          "La Vergne",
+          "Antioch"
+        ]
+      },
+      {
+        "city": "Gallatin",
+        "slug": "gallatin-tn",
+        "state": "TN",
+        "content": "Williamz Constructors LLC extends its services to Gallatin, Tennessee. Gallatin offers a blend of historic charm and modern development, presenting diverse construction needs. We cater to these needs with a variety of services, including residential renovations, new construction, and commercial projects.\n\nWe appreciate the unique character of Gallatin and strive to preserve its historical integrity while incorporating modern design and functionality. Our team is experienced in working with both older and newer properties, ensuring that your project aligns with the town's aesthetic. We also understand the impact of hot, humid summers on local homes and can advise on weather protection.\n\nWilliamz Constructors LLC is dedicated to providing exceptional service and quality to our Gallatin clients, ensuring that your construction project is a success.",
+        "localContext": "Gallatin, TN, combines historic elements with modern growth, offering a unique blend of old and new. The area experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Portland",
+          "White House"
+        ]
+      },
+      {
+        "city": "La Vergne",
+        "slug": "la-vergne-tn",
+        "state": "TN",
+        "content": "Williamz Constructors LLC provides construction services to La Vergne, Tennessee, a growing city with a strong sense of community. We offer a range of construction services tailored to meet needs of homeowners and businesses alike. From home renovations to new commercial construction, we're dedicated to delivering quality workmanship and exceptional customer service.\n\nWe understand La Vergne's commitment to affordable living and strive to provide cost-effective construction solutions without compromising on quality. Our team is skilled in working with various architectural styles and budgets, ensuring that your project is tailored to your specific needs. We also understand the impact of hot, humid summers on local homes and can advise on weather protection.\n\nWilliamz Constructors LLC is committed to building lasting relationships with our clients in La Vergne, based on trust, integrity, and superior craftsmanship.",
+        "localContext": "La Vergne, TN, is a developing city known for its community spirit and accessible living. The region experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Smyrna",
+          "Antioch",
+          "Murfreesboro"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodeling",
+        "text": "Williamz Constructors did an amazing job remodeling our kitchen! They were professional, communicative, and the quality of their work is outstanding. We especially appreciated their attention to detail and how they kept us informed throughout the entire process. Our new kitchen is exactly what we wanted!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Bathroom Remodeling",
+        "text": "We hired Williamz Constructors to remodel our master bathroom, and we're very happy with the results. The team was skilled and efficient, and they completed the project on time and within budget. There were a couple of minor issues that came up, but they were quick to address them and make things right. Would recommend!",
+        "date": "2025-02-20"
+      },
+      {
+        "name": "Jennifer K.",
+        "rating": 5,
+        "service": "Home Addition",
+        "text": "Williamz Constructors built a sunroom addition onto our home, and it's absolutely beautiful! The entire team was a pleasure to work with, from the initial design phase to the final finishing touches. They were always responsive to our questions and concerns, and they made the entire process as stress-free as possible. We highly recommend them!",
+        "date": "2024-11-01"
+      },
+      {
+        "name": "Michael L.",
+        "rating": 5,
+        "service": "Deck Construction",
+        "text": "We had Williamz Constructors build a new deck in our backyard, and we couldn't be happier with the results. The deck is sturdy, well-built, and looks fantastic. The team was professional, courteous, and they cleaned up the job site thoroughly after each day's work. We'll definitely be using them for future projects.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "Williamz Constructors did a great job repairing the siding on our home after a storm. They were quick to respond to our call, provided a fair estimate, and completed the repairs efficiently. The siding looks as good as new, and we're confident that it will protect our home for years to come.",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Thomas S.",
+        "rating": 5,
+        "service": "Roofing Services",
+        "text": "Our roof was leaking badly after a recent storm. Williamz Constructors came out quickly, assessed the damage, and provided a reasonable quote for a new roof. The installation team was professional and efficient. I would highly recommend them for roofing needs.",
+        "date": "2024-06-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Williamz Constructors | Nashville Contractor",
+        "description": "Trusted general contractor in Nashville, TN. Kitchen & bath remodels, home additions, roofing, siding. Call +16152199786."
+      },
+      "about": {
+        "title": "About Williamz Constructors - Nashville, TN",
+        "description": "Learn about Williamz Constructors LLC, a leading general contractor in Nashville, TN. Our values, expertise, and commitment to quality."
+      },
+      "services": {
+        "title": "Nashville Contractor Services | Williamz Constructors",
+        "description": "Comprehensive contractor services in Nashville, TN. Kitchen remodeling, bathroom renovation, roofing, siding, decks, additions."
+      },
+      "contact": {
+        "title": "Contact Williamz Constructors - Nashville, TN",
+        "description": "Contact Williamz Constructors LLC for your next remodeling or construction project in Nashville. Free consultations. Call +16152199786."
+      },
+      "reviews": {
+        "title": "Williamz Constructors Reviews | Nashville, TN",
+        "description": "Read reviews for Williamz Constructors LLC, a trusted general contractor in Nashville, TN. See what our clients say about our services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Williamz Constructors",
+        "description": "Williamz Constructors LLC provides professional contracting services in Nashville, Franklin, Murfreesboro, Brentwood, and Hendersonville."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "home-additions": "/images/service-home-additions.webp",
+      "deck-and-patio-construction": "/images/service-deck-and-patio-construction.webp",
+      "siding-installation-and-repair": "/images/service-siding-installation-and-repair.webp",
+      "roofing-services": "/images/service-roofing-services.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "home-additions": {
+        "src": "/images/service-home-additions.webp",
+        "srcset": "/images/service-home-additions-400w.webp 400w, /images/service-home-additions-800w.webp 800w, /images/service-home-additions-1200w.webp 1200w, /images/service-home-additions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-and-patio-construction": {
+        "src": "/images/service-deck-and-patio-construction.webp",
+        "srcset": "/images/service-deck-and-patio-construction-400w.webp 400w, /images/service-deck-and-patio-construction-800w.webp 800w, /images/service-deck-and-patio-construction-1200w.webp 1200w, /images/service-deck-and-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-installation-and-repair": {
+        "src": "/images/service-siding-installation-and-repair.webp",
+        "srcset": "/images/service-siding-installation-and-repair-400w.webp 400w, /images/service-siding-installation-and-repair-800w.webp 800w, /images/service-siding-installation-and-repair-1200w.webp 1200w, /images/service-siding-installation-and-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roofing-services": {
+        "src": "/images/service-roofing-services.webp",
+        "srcset": "/images/service-roofing-services-400w.webp 400w, /images/service-roofing-services-800w.webp 800w, /images/service-roofing-services-1200w.webp 1200w, /images/service-roofing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
